@@ -1,0 +1,23 @@
+{
+  "model_type": "LogisticRegression (with StandardScaler in Pipeline)",
+  "problem_type": "classification",
+  "framework": "scikit-learn",
+  "sklearn_version": "1.7.1",
+  "python_version": "3.13.6",
+  "features": [
+    "sepal length (cm)",
+    "sepal width (cm)",
+    "petal length (cm)",
+    "petal width (cm)"
+  ],
+  "target_names": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ],
+  "trained_at": "2025-08-18T08:59:45Z",
+  "metrics": {
+    "test_accuracy": 0.9333333333333333
+  },
+  "notes": "Simple baseline model for Iris classification."
+}
