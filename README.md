@@ -132,14 +132,3 @@ uvicorn main:app --reload
 * pydantic
 
 ---
-
-## License
-
-MIT License
-
-```
-
---- 
-
-Do you want me to do that?
-```
